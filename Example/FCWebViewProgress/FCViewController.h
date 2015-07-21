@@ -8,6 +8,6 @@
 
 @import UIKit;
 
-@interface FCViewController : UIViewController
+@interface FCViewController : UIViewController <UIWebViewDelegate>
 
 @end

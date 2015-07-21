@@ -1,0 +1,6 @@
+framework module FCWebViewProgress {
+  umbrella header "Pods-FCWebViewProgress_Tests-FCWebViewProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

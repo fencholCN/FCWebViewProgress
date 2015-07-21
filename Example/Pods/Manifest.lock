@@ -1,0 +1,14 @@
+PODS:
+  - FCWebViewProgress (0.1.0)
+
+DEPENDENCIES:
+  - FCWebViewProgress (from `../`)
+
+EXTERNAL SOURCES:
+  FCWebViewProgress:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FCWebViewProgress: 129120482a53638520bb1f0b12daccdb08c9227b
+
+COCOAPODS: 0.37.2
