@@ -75,4 +75,9 @@ const void *gUpdateProgressKey = &gUpdateProgressKey;
     return objc_getAssociatedObject(self, gUpdateProgressKey);
 }
 
+- (void)setupProgress
+{
+    [self progressProxy];
+}
+
 @end

@@ -16,4 +16,9 @@
 
 @property (nonatomic, strong, readonly) FCWebViewProgressProxy *progressProxy;
 
+/**
+ * setup progress, if setting delegate, it can be obmited
+ */
+- (void)setupProgress;
+
 @end
